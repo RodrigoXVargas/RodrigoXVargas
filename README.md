@@ -45,13 +45,13 @@
 </p>
 
 
-<h3> > Mis Proyectos </h3>
+<h3> > Algunos de mis proyectos </h3>
 <p align="left"></p>
 
 <a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   Buen Sabor | Administracion de un restaurante</a>
 
 <a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
-<a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/buen_sabor.png" height="300" width="500" /> </a>
+<a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/UML Buen Sabor.png" height="300" width="500" /></a>
 
 <a href="https://github.com/Rxvargas92/Project_E-Music.git" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   E-Music | Tienda de instrumentos musicales</a>
 
