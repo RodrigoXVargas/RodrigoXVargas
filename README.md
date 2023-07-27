@@ -4,7 +4,7 @@
 <h3> > Contáctame: </h3>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/rodrigoxvargas/" target="_blank"> <img src="./img/icons/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
-  <code><a href="https://www.notion.so/Curriculum-Vitae-94c93fab66b146b6b99cff6dd9fe9e79?pvs=4" target="_blank"> <img src="./img/icons/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
+  <code><a href="https://drive.google.com/file/d/1XyZwZlrnjyqrft6xtymp43zntm_MzAVH/view?usp=sharing" target="_blank"> <img src="./img/icons/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
   <code><a href="mailto:rxvargas.92@gmail.com" target="_blank"> <img src="./img/icons/email_wyxjlw.svg" alt="Email" height="30"/></a></code>
   
 </p>
@@ -26,29 +26,21 @@
   <code><a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="./assents/icons/skills/front/typescript.png" alt="typescript" height="30"/></a> TypeScript</code>
   <code><a href="https://www.w3.org/html/" target="_blank"> <img src="./assents/icons/skills/front/html-5.png" alt="html5" height="30"/></a> HTML</code>
   <code><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="./assents/icons/skills/front/css-3.png" alt="css3" height="30"/></a> CSS</code>
-  <code><a href="https://sass-lang.com/documentation/" target="_blank"> <img src="./assents/icons/skills/front/sass.png" alt="sass" height="30"/></a> SASS</code>
-  <code><a href="https://tailwindcss.com/docs/installation" target="_blank"> <img src="./assents/icons/skills/front/tailwind.png" alt="tailwind" height="30"/></a> Tailwind</code>
   <code><a href="https://reactjs.org/" target="_blank"> <img src="./assents/icons/skills/front/react.png" alt="react" height="30"/></a> React</code>
 
 <h4> - Extra Back-End </h4>
-  <code><a href="https://nodejs.org" target="_blank"> <img src="./assents/icons/skills/back/nodejs.png" alt="nodejs" height="30"/></a> Node.Js</code>
-  <code><a href="https://expressjs.com" target="_blank"> <img src="./assents/icons/skills/back/express.png" alt="express" height="30"/></a> Express.Js</code>
   <code><a href="https://docs.python.org/3/" target="_blank"> <img src="./assents/icons/skills/back/python.png" alt="Python" height="30"/></a> Python </code>
   <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="./assents/icons/skills/back/c-sharp.png" alt="C Sharp" height="30"/></a> C Sharp </code>
 
 <h4> - DataBase </h4>
   <code><a href="https://dev.mysql.com/doc/" target="_blank"> <img src="./assents/icons/skills/db/mysql.png" alt="mysql" width="30" height="30"/></a> MySql</code>
-  <code><a href="https://www.postgresql.org" target="_blank"> <img src="./assents/icons/skills/db/postgresql.png" alt="postgresql" width="30" height="30"/></a> PostgreSQL</code>
   <code><a href="https://www.mongodb.com/" target="_blank"> <img src="./assents/icons/skills/db/mongodb.jpg" alt="mongodb" height="30"/></a> MongoDB</code>
 
 <h4> - Plataforms </h4>
-  <code><a href="https://www.figma.com/community" target="_blank"> <img src="./assents/icons/skills/back/figma.png" alt="Figma" height="30"/></a> Figma</code>
   <code><a href="https://www.atlassian.com/es/software/jira" target="_blank"> <img src="./assents/icons/skills/back/jira.png" alt="Jira" height="30"/></a> Jira</code>
   <code><a href="https://trello.com/" target="_blank"> <img src="./assents/icons/skills/back/trello.png" alt="Trello" height="30"/></a> Trello</code>
   <code><a href="https://slack.com/intl/es-ar/" target="_blank"> <img src="./assents/icons/skills/back/slack.png" alt="Slack" height="30"/></a> Slack</code>
   <code><a href="https://www.postman.com/product/what-is-postman/" target="_blank"> <img src="./assents/icons/skills/back/postman.png" alt="Postman" height="30"/></a> Postman</code>
-
-
 </p>
 
 
