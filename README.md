@@ -4,7 +4,7 @@
 <h3> > Contáctame: </h3>
 <p align="left">
   <code><a href="https://www.linkedin.com/in/rodrigoxvargas/" target="_blank"> <img src="./img/icons/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a></code>
-  <code><a href="https://drive.google.com/file/d/1RZc2xCwI3Nm1WIuC61tNZ43-Fd1LGMNj/view?usp=sharing" target="_blank"> <img src="./img/icons/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
+  <code><a href="https://www.notion.so/Curriculum-Vitae-94c93fab66b146b6b99cff6dd9fe9e79?pvs=4" target="_blank"> <img src="./img/icons/cv_ctuedj.svg" alt="CV" height="30"/></a></code>
   <code><a href="mailto:rxvargas.92@gmail.com" target="_blank"> <img src="./img/icons/email_wyxjlw.svg" alt="Email" height="30"/></a></code>
   
 </p>
