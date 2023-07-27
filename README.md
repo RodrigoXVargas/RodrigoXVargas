@@ -48,7 +48,24 @@
 <h3> > Mis Proyectos </h3>
 <p align="left"></p>
 
+<a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   Buen Sabor | Administracion de un restaurante</a>
 
+<a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
+<a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/buen_sabor.png" height="300" width="500" /> </a>
 
+<a href="https://github.com/Rxvargas92/Project_E-Music.git" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   E-Music | Tienda de instrumentos musicales</a>
+
+<a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
+<a href="https://github.com/Rxvargas92/Project_E-Music.git" ><img align="center" src="" height="20" width="30" /> </a>
+
+<a href="https://github.com/RodrigoXVargas/AlquilaYa" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   Alquila Ya | Administracion de tienda de alquiler de vehiculos</a>
+
+<a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
+<a href="https://github.com/RodrigoXVargas/AlquilaYa" ><img align="center" src="" height="20" width="30" /> </a>
+
+<a href="https://github.com/RodrigoXVargas/SistemaContable-Blockchain" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" /> Sistema Contable con Blockchain Basico</a>
+
+<a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
+<a href="https://github.com/RodrigoXVargas/SistemaContable-Blockchain" ><img align="center" src="" height="20" width="30" /> </a>
 
 
