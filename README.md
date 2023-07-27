@@ -19,6 +19,7 @@
   <code><a href="https://hibernate.org/orm/documentation/6.2/" target="_blank"> <img src="./assents/icons/skills/back/hibernate.svg" alt="Hibernate" height="30"/></a> Hibernate</code>
   <code><a href="https://maven.apache.org/guides/" target="_blank"> <img src="./assents/icons/skills/back/maven.svg" alt="Maven" height="30"/></a> Maven</code>
   <code><a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank"> <img src="./assents/icons/skills/back/boot_spring.svg" alt="Spring Boot" height="30"/></a> Spring Boot </code>
+  <code><a href="https://spring.io/projects/spring-security" target="_blank"> <img src="./assents/icons/skills/back/boot_spring.svg" alt="Spring Boot" height="30"/></a> Spring Security </code>
   <code><a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank"> <img src="./assents/icons/skills/back/junit.svg" alt="JUnit5" height="30"/></a> JUnit5 </code>
 
   <h4> - Front-End </h4>
