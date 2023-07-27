@@ -1,4 +1,4 @@
-<h1 align="center" width=75%>Hola! yo soy Rodrigo Vargas  </h1>
+<h1 align="center" width=75%>Hola! Soy Rodrigo Vargas  </h1>
 <h3 align="center">Desarrollador de software enfocado en aplicaciones web, con experiencia no laboral, tanto en el área Frontend como Backend. Si bien tengo habilidades en ambas áreas, mi interés principal se inclina hacia el Backend, donde puedo aplicar todo mi conocimiento y pasión para la creación de soluciones robustas, escalables y de calidad. Mi objetivo profesional es crear soluciones de desarrollo reconocidas a nivel mundial.</h3>
 
 <h3> > Contáctame: </h3>
