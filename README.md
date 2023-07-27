@@ -40,7 +40,6 @@
 <h4> - Plataforms </h4>
   <code><a href="https://www.atlassian.com/es/software/jira" target="_blank"> <img src="./assents/icons/skills/back/jira.png" alt="Jira" height="30"/></a> Jira</code>
   <code><a href="https://trello.com/" target="_blank"> <img src="./assents/icons/skills/back/trello.png" alt="Trello" height="30"/></a> Trello</code>
-  <code><a href="https://slack.com/intl/es-ar/" target="_blank"> <img src="./assents/icons/skills/back/slack.png" alt="Slack" height="30"/></a> Slack</code>
   <code><a href="https://www.postman.com/product/what-is-postman/" target="_blank"> <img src="./assents/icons/skills/back/postman.png" alt="Postman" height="30"/></a> Postman</code>
 </p>
 
@@ -51,7 +50,7 @@
 <a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   Buen Sabor | Administracion de un restaurante</a>
 
 <a href="#" ><img align="center" src="./assents/icons/projects/line.svg" width="3.5" /></a>
-<a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/UML Buen Sabor.png" height="300" width="500" /></a>
+<a href="https://github.com/RodrigoXVargas/Buen-Sabor--Backend" ><img align="center" src="./assents/icons/projects/Uml Buen Sabor.png" height="300" width="500" /></a>
 
 <a href="https://github.com/Rxvargas92/Project_E-Music.git" ><img align="center" src="./assents/icons/projects/circle.svg" height="15" width="15" />   E-Music | Tienda de instrumentos musicales</a>
 
